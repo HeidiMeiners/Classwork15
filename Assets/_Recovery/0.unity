@@ -1395,7 +1395,7 @@ MonoBehaviour:
   sonidoCombo1: {fileID: 8300000, guid: b161a527dfa85534f8915fdced8a07ec, type: 3}
   sonidoCombo2: {fileID: 8300000, guid: 0a39f8450cfaa4f4a8dd6174e2b4722d, type: 3}
   sonidoCombo3: {fileID: 8300000, guid: fe7d542cc1149cb43a9a92a201d7aaea, type: 3}
-  fuerzaSalto: 2
+  fuerzaSalto: 1
   fuerzaGiro: 2
 --- !u!1 &1749205086
 GameObject:
